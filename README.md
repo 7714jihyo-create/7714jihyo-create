@@ -1,5 +1,5 @@
 <!-- 헤더 배너 -->
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 안녕하세요 저는 홍길동입니다</h1>
 <h3 align="center">💡 [한 줄 소개 — 예: Backend Developer | Problem Solver]</h3>
 
 <p align="center">
