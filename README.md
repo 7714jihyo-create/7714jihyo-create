@@ -25,7 +25,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Java-000?&logo=Java" />
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=Ｃ" />
 </p>
 
 ### ⚙️ Backend / Frontend
