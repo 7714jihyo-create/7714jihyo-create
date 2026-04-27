@@ -23,21 +23,9 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-### ⚙️ Backend / Frontend
-<p>
-  <img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" />
-  <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-000?&logo=react" />
-</p>
-
-### 🛢 Database
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql" />
-  <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" />
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+  <img src="https://img.shields.io/badge/-C-000?&logo=c" />
 </p>
 
 ---
