@@ -14,8 +14,7 @@
 - 🔭 I’m currently working on **[프로젝트/분야]**
 - 🌱 I’m learning **[기술 스택]**
 - 💬 Ask me about **[잘하는 것]**
-- 📫 How to reach me: **[이메일]**
-- ⚡ Fun fact: **[재밌는 한 줄]**
+- 📫 How to reach me: 7714jihyo@gmail.com
 
 ---
 
