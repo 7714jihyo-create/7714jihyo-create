@@ -1,5 +1,5 @@
 <!-- 헤더 배너 -->
-<h1 align="center">👋 안녕하세요 저는 홍길동입니다</h1>
+<h1 align="center">👋 안녕하세요 저는 olzlkor입니다</h1>
 <h3 align="center">💡 [한 줄 소개 — 예: Backend Developer | Problem Solver]</h3>
 
 <p align="center">
@@ -85,9 +85,6 @@
 <p>
   <a href="mailto:[your-email]">
     <img src="https://img.shields.io/badge/-Email-000?&logo=gmail" />
-  </a>
-  <a href="[블로그 링크]">
-    <img src="https://img.shields.io/badge/-Blog-000?&logo=velog" />
   </a>
 </p>
 
