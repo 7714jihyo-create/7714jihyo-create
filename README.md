@@ -2,9 +2,6 @@
 <h1 align="center">👋 안녕하세요, olzlkor입니다</h1>
 <h3 align="center">🎮 Game Developer | Java · Python · C · Unity</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olzlkor&color=00b4d8&style=flat-square" />
-</p>
 
 ---
 
