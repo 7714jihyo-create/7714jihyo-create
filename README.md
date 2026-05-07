@@ -34,10 +34,8 @@
 
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
-  - `Rigidbody2D` 및 `Angular Drag`를 활용한 현실적인 회전 물리 구현
-  - `UGUI`를 활용한 직관적인 사용자 인터페이스 설계
-  - 애니메이션 및 사운드 이벤트를 통한 게임 몰입도 향상
-- 🔗 **[Repository 이동](https://github.com/7714jihyo-create/Roullete.git)**
+  - 2D 랜덤 룰렛 게임
+- 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
 - 
 ### 🕹️ Unity Game Project (In Progress)
 > 게임 로직 구현 및 객체 지향 설계를 적용한 개인 프로젝트
