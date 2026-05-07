@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 About Me
 - 🔭 **Current Focus**: Unity 기반 게임 시스템 설계 및 C# 스크립팅
-- 🌱 **Learning**: 자료구조, 알고리즘, Linux 시스템 관리
-- 💬 **Interests**: 게임 물리 엔진, 성능 최적화, 저수준 프로그래밍
+- 🌱 **Learning**: Unity
+- 💬 **Interests**: 게임 물리 엔진, 저수준 프로그래밍
 - 📫 **Contact**: 7714jihyo@gmail.com
 
 ---
