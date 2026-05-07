@@ -1,106 +1,60 @@
 <!-- 헤더 배너 -->
-<h1 align="center">👋 안녕하세요 저는 olzlkor입니다</h1>
-<h3 align="center">💡 [한 줄 소개 — 예: Backend Developer | Problem Solver]</h3>
+<h1 align="center">👋 안녕하세요, olzlkor입니다</h1>
+<h3 align="center">🎮 Game Developer | Java · Python · C · Unity</h3>
 
 <p align="center">
-  <a href="https://github.com/[your-id]">
-    <img src="https://komarev.com/ghpvc/?username=[your-id]&color=blue" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=olzlkor&color=00b4d8&style=flat-square" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **[프로젝트/분야]**
-- 🌱 I’m learning **[기술 스택]**
-- 💬 Ask me about **[잘하는 것]**
-- 📫 How to reach me: 7714jihyo@gmail.com
+- 🔭 **Current Focus**: Unity 기반 게임 시스템 설계 및 C# 스크립팅
+- 🌱 **Learning**: 자료구조, 알고리즘, Linux 시스템 관리
+- 💬 **Interests**: 게임 물리 엔진, 성능 최적화, 저수준 프로그래밍
+- 📫 **Contact**: 7714jihyo@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Engine
 <p>
-  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" />
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
-  <img src="https://img.shields.io/badge/-C-000?&logo=c" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
+### 🕹️ Unity Game Project (In Progress)
+> 게임 로직 구현 및 객체 지향 설계를 적용한 개인 프로젝트
 
-### 🧠 [Project Name]
-> 한 줄 설명 (문제 → 해결 방식 강조)
-
-- 🔧 Tech: `Spring`, `MySQL`, `AWS`
-- 🚀 주요 기능:
-  - 기능 1
-  - 기능 2
-- 📈 성과:
-  - 속도 30% 개선
-- 🔗 [Repository](https://github.com/[your-id]/[repo])
-
----
-
-### 📱 [Project Name 2]
-> 사용자 관점에서 설명
-
-- 🔧 Tech: `React`, `Firebase`
-- 💡 핵심 포인트:
-  - UX 개선
-  - 실시간 데이터 처리
-- 🔗 [Demo](#)
+- 🔧 **Tech**: `Unity`, `C#`
+- 🚀 **Focus**: 확장성 있는 코드 구조 및 게임 플레이 루프 완성
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-id]&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-id]&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olzlkor&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-id]&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olzlkor&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 [대회/성과]
-- 📜 [자격증]
-- 🎯 [달성 목표]
-
----
-
-## 📫 Contact
-
-<p>
-  <a href="mailto:[your-email]">
-    <img src="https://img.shields.io/badge/-Email-000?&logo=gmail" />
-  </a>
-</p>
+## 🎯 Goals
+- 🚀 완성도 높은 게임 프로젝트 빌드 및 배포
+- 🐧 Linux 환경에서의 개발 프로세스 익스퍼트 달성
+- 🧩 효율적인 알고리즘 설계를 통한 문제 해결 능력 강화
 
 ---
 
-## 🧩 Extras (차별화 포인트)
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/[your-id]/[your-id]/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🎵 Now Playing (Spotify)
-<!-- Spotify API 연동 가능 -->
-
----
-
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 > "First, solve the problem. Then, write the code." – John Johnson
