@@ -36,7 +36,7 @@
 - 🚀 **Features**: 
   - 2D 랜덤 룰렛 게임
 - 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
-- 
+  
 ### 🕹️ Unity Game Project (In Progress)
 > 게임 로직 구현 및 객체 지향 설계를 적용한 개인 프로젝트
 
@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7714jihyo-create&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=7714jihyo-create&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
