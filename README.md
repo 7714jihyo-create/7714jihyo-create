@@ -36,6 +36,11 @@
 - 🚀 **Features**: 
   - 2D 랜덤 룰렛 게임
 - 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
+- 
+- 🔧 **Tech**: `Unity`, `C#`
+- 🚀 **Features**: 
+  - 2D 고양이 피하기 게임
+- 🔗 **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**
   
 ### 🕹️ Unity Game Project (In Progress)
 > 게임 로직 구현 및 객체 지향 설계를 적용한 개인 프로젝트
