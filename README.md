@@ -36,7 +36,7 @@
 - 🚀 **Features**: 
   - 2D 랜덤 룰렛 게임
 - 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
-- 
+
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
   - 2D 고양이 피하기 게임
