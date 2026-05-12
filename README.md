@@ -30,7 +30,7 @@
 
 ## 📌 Featured Projects
 ### 🎡 Unity Roulette Game
-> **Unity 엔진**을 활용하여 제작한 확률 기반 룰렛 시뮬레이션
+> **Unity 엔진**을 활용하여 제작한 룰렛 시뮬레이션
 
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
