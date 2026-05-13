@@ -42,12 +42,6 @@
 - 🚀 **Features**: 
   - 2D 고양이 피하기 게임
 - 🔗 **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**
-  
-### 🕹️ Unity Game Project (In Progress)
-> 게임 로직 구현 및 객체 지향 설계를 적용한 개인 프로젝트
-
-- 🔧 **Tech**: `Unity`, `C#`
-- 🚀 **Focus**: 확장성 있는 코드 구조 및 게임 플레이 루프 완성
 
 ---
 
