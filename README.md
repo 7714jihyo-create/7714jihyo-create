@@ -40,7 +40,7 @@
 ### 🎡 Unity CatEscape Game
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
-  - 2D 고양이 피하기 게임
+  - 2D 고양이 화살표 피하기 게임
 - 🔗 **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**
 
 ---
