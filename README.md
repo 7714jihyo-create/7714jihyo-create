@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 About Me
 - 🔭 **Current Focus**: Unity 기반 게임 시스템 설계 및 C# 스크립팅
-- 🌱 **Learning**: Unity
-- 💬 **Interests**: 게임 물리 엔진, 저수준 프로그래밍
+- 🌱 **Learning**: Unity • C# • Linux
+- 💬 **Interests**: 게임 엔진, 프로그래밍
 - 📫 **Contact**: 7714jihyo@gmail.com
 
 ---
@@ -34,13 +34,13 @@
 
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
-  - 2D 랜덤 룰렛 게임
+  - 2D) 랜덤 룰렛 게임
 - 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
 
 ### 🐱 Unity CatEscape Game
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
-  - 2D 고양이 화살표 피하기 게임
+  - 2D) 고양이 화살표 피하기 게임
 - 🔗 **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**
 
 ---
