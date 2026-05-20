@@ -38,6 +38,7 @@
 - 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
 
 ### 🐱 Unity CatEscape Game
+> **Unity 엔진**을 활용하여 제작한 화살표 비 피하기 게임
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
   - 2D) 고양이 화살표 피하기 게임
