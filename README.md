@@ -47,7 +47,7 @@
 - 🚀 **Features**:
   - 2D) 고양이 화살표 피하기 게임
 
-### 🚗 Unity Car Swipe Game
+### 🚗 Unity **[SwipeCar](https://github.com/7714jihyo-create/SwipeCar.git)** Game
 > **Unity 엔진**을 활용하여 제작한 자동차 스와이프 게임
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**:
