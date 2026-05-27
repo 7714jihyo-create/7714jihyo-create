@@ -50,6 +50,12 @@
 - 🚀 **Features**:
   - 2D) 고양이 화살표 피하기 게임
 
+### 🚗 Unity Car Swipe Game
+> **Unity 엔진**을 활용하여 제작한 자동차 스와이프 게임
+- 🔧 **Tech**: `Unity`, `C#`
+- 🚀 **Features**:
+  - 2D) 깃발에 자동차 가까이 대기 게임
+
 ---
 
 ## 📊 GitHub Stats
