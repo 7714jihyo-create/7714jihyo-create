@@ -29,20 +29,17 @@
 ---
 
 ## 📌 Featured Projects
-### 🎡 Unity Roulette Game
+### 🎡 Unity Roulette Game / 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
 > **Unity 엔진**을 활용하여 제작한 룰렛 시뮬레이션
-
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
   - 2D) 랜덤 룰렛 게임
-- 🔗 **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)**
 
-### 🐱 Unity CatEscape Game
+### 🐱 Unity CatEscape Game / 🔗 **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**
 > **Unity 엔진**을 활용하여 제작한 화살표 비 피하기 게임
 - 🔧 **Tech**: `Unity`, `C#`
 - 🚀 **Features**: 
   - 2D) 고양이 화살표 피하기 게임
-- 🔗 **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**
 
 ### ☁ Unity ClimbCloud Game
 > **Unity 엔진**을 활용하여 제작한 구름 올라가기 게임
