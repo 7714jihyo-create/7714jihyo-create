@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Mysql&logoColor=black" />
 </p>
 
 ---
