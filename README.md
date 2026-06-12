@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Featured Projects
-### 🎡 Unity **[ROULLETE](https://github.com/7714jihyo-create/Roullete.git)** Game
+### 🎡 Unity **[Roullete](https://github.com/7714jihyo-create/Roullete.git)** Game
 > **Unity 엔진**을 활용하여 제작한 룰렛 시뮬레이션
 - 🔧 **Tech**: `Unity`, `C#`
 
