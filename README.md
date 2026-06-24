@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 **Current Focus**: Unity 기반 게임 시스템 설계 및 C# 스크립팅
+- 🔭 **Current Focus**: Unity/바이브코딩 기반 게임 시스템 설계
 - 🌱 **Learning**: Unity • C# • Linux
 - 💬 **Interests**: 게임 엔진, 프로그래밍
 - 📫 **Contact**: 7714jihyo@gmail.com
