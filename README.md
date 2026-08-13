@@ -34,21 +34,12 @@
 > **Unity 엔진**을 활용하여 제작한 룰렛 시뮬레이션
 - 🔧 **Tech**: `Unity`, `C#`
 
-### 🐱 Unity **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)** Game
-> **Unity 엔진**을 활용하여 제작한 화살표 비 피하기 게임
-- 🔧 **Tech**: `Unity`, `C#`
+### 🐱 Unity **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)** Game: 화살표 비 피하기 게임
 
-### ☁ Unity **[ClimbCloud](https://github.com/7714jihyo-create/ClimbCloud.git)** Game
-> **Unity 엔진**을 활용하여 제작한 구름 올라가기 게임
-- 🔧 **Tech**: `Unity`, `C#`
+### ☁ Unity **[ClimbCloud](https://github.com/7714jihyo-create/ClimbCloud.git)**: 구름 올라가기 게임
 
-### 🚗 Unity **[SwipeCar](https://github.com/7714jihyo-create/SwipeCar.git)** Game
-> **Unity 엔진**을 활용하여 제작한 자동차 스와이프 게임
-- 🔧 **Tech**: `Unity`, `C#`
-
-### 🚗 Unity **[UniCar](https://github.com/7714jihyo-create/unicar.git)** Game
-> **Unity 엔진**을 활용하여 제작한 자동차 레이싱 게임
-- 🔧 **Tech**: `Unity`, `C#`
+### 🚗 Unity **[SwipeCar](https://github.com/7714jihyo-create/SwipeCar.git)** Game 자동차 스와이프 게임
+### 🚗 Unity **[UniCar](https://github.com/7714jihyo-create/unicar.git)** Game 자동차 레이싱 게임
 
 ---
 
