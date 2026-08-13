@@ -30,16 +30,11 @@
 ---
 
 ## 📌 Featured Projects
-### 🎡 Unity **[Roullete](https://github.com/7714jihyo-create/Roullete.git)** Game
-> **Unity 엔진**을 활용하여 제작한 룰렛 시뮬레이션
-- 🔧 **Tech**: `Unity`, `C#`
-
-### 🐱 Unity **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)** Game: 화살표 비 피하기 게임
-
+### 🎡 Unity **[Roullete](https://github.com/7714jihyo-create/Roullete.git)**: 룰렛 시뮬레이션
+### 🐱 Unity **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**: 화살표 비 피하기 게임
 ### ☁ Unity **[ClimbCloud](https://github.com/7714jihyo-create/ClimbCloud.git)**: 구름 올라가기 게임
-
-### 🚗 Unity **[SwipeCar](https://github.com/7714jihyo-create/SwipeCar.git)** Game 자동차 스와이프 게임
-### 🚗 Unity **[UniCar](https://github.com/7714jihyo-create/unicar.git)** Game 자동차 레이싱 게임
+### 🚗 Unity **[SwipeCar](https://github.com/7714jihyo-create/SwipeCar.git)**: 자동차 스와이프 게임
+### 🚗 Unity **[UniCar](https://github.com/7714jihyo-create/unicar.git)**: 자동차 레이싱 게임
 
 ---
 
