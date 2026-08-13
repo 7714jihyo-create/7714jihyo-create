@@ -33,8 +33,7 @@
 ### 🎡 Unity **[Roullete](https://github.com/7714jihyo-create/Roullete.git)**: 룰렛 시뮬레이션
 ### 🐱 Unity **[CatEscape](https://github.com/7714jihyo-create/CatEscape.git)**: 화살표 비 피하기 게임
 ### ☁ Unity **[ClimbCloud](https://github.com/7714jihyo-create/ClimbCloud.git)**: 구름 올라가기 게임
-### 🚗 Unity **[SwipeCar](https://github.com/7714jihyo-create/SwipeCar.git)**: 자동차 스와이프 게임
-### 🚗 Unity **[UniCar](https://github.com/7714jihyo-create/unicar.git)**: 자동차 레이싱 게임
+### 🚗 Unity **[SwipeCar](https://github.com/7714jihyo-create/SwipeCar.git)** / [UniCar](https://github.com/7714jihyo-create/unicar.git)**: 자동차 스와이프/레이싱 게임
 
 ---
 
